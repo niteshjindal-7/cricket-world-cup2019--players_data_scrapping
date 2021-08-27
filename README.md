@@ -1,4 +1,4 @@
-# cricket-world-cup2019--players_&__matches_data_scrapping
+# cricket-world-cup2019--players_&_matches_data_scrapping
 
 In this exercise, we will scrap world cup players data from the below link-
 http://www.espncricinfo.com/ci/content/squad/index.html?object=1144415 

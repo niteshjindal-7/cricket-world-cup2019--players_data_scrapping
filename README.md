@@ -2,8 +2,7 @@
 
 In this exercise, we will scrap world cup players data from the below link-
 http://www.espncricinfo.com/ci/content/squad/index.html?object=1144415 
-
-scrapped matches data from below link-
+and matches data from below link-
 https://www.espncricinfo.com/series/_/id/8039/season/2019/icc-cricket-world-cup
 
 

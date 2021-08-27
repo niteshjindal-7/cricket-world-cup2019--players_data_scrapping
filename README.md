@@ -8,3 +8,5 @@ https://www.espncricinfo.com/series/_/id/8039/season/2019/icc-cricket-world-cup
 
 
 Scrapped data of players and matches can be found here:- https://drive.google.com/drive/folders/1IQCUKo1zBkVKM1b9NPMl2EApVb00cpXn?usp=sharing 
+
+please refer the notebook (.ipynb) for scrapping code scripts.

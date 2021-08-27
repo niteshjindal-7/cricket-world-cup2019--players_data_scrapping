@@ -1,6 +1,6 @@
 # cricket-world-cup2019--players_data_scrapping-
 
-In this exercise, we will do several analysis on world cup data which we have scrapped from the below website:-
+In this exercise, we will do scrap world cup data from the below website:-
 http://www.espncricinfo.com/ci/content/squad/index.html?object=1144415 
 
 
